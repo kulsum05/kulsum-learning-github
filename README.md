@@ -6,5 +6,4 @@ I am a Class 12 Science student.
 - Learn GitHub
 - Learn Python
 - Learn AI
-- Become a Microsoft Student Ambassador# kulsum-learning-github
-Learning GitHub and exploring tech
+- Become a Microsoft Student Ambassador
